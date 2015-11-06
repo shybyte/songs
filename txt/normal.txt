@@ -1,0 +1,47 @@
+{ng}
+{textsize:10}
+{title:Normal}
+
+{ci:Bond Intro: 4 x (Am + Noten: e f fis f)}
+
+[Am] Ich bin der deutsche Durchschnitt
+bin nicht zu dünn und nicht zu dick
+[Dm] bin nicht zu groß - bin nicht zu klein
+[E] ich passe überall hinein
+
+[Am] Ich bin der deutsche Durchschnitt
+sowohl im Kopf als auch im Schritt
+[Dm] ich bin nicht schön - ich bin nicht Scheiße
+[E] ich bin nicht klug und auch nicht weise
+
+{start_of_chorus}
+Wir sind nor[Am]mal
+schrecklich normal
+ja so nor[Dm]mal zu sein
+ist nicht nor[Am]mal
+ja so nor[E]mal
+das ist [Dm]fast schon radi[Am]kal
+
+{ci:Refrain Noten}
+{ci: Am: e f fis f}
+{ci: Dm: a b h b}
+{end_of_chorus}
+
+{ci:Bond Solo}
+
+{ci:Strophe 2:}
+Bei Vollmond wachsen mir überall Haare
+das hält zwar warm  doch ist optisch nicht das Wahre
+ich würd mich ja rasieren doch das tut meistens weh
+da ich mein eigenes Spiegelbild nicht seh
+
+Beruflich spiele ich in Zombiepornos mit
+Nekromanie die hällt mich fit
+Ich bin Durchschnitt da ist von allem was dabei
+sogar ein kleines bisschen weißer Hai
+{ci:Weißer Hai Break}
+
+{ci:Refrain}
+{ci:Bond Solo + Batman}
+{ci:Spaß}
+

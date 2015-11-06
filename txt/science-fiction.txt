@@ -1,0 +1,68 @@
+{title: Science Fiction}
+{define: Hm base-fret 2 frets 0 0 2 2 1 0}
+
+{ci: Intro auf Em}
+
+{ci: Strophe: Em D Hm C}
+
+[Em]Wenn ich als Kind, Science [D]Fiction Filme sah
+[Hm]fragte ich mich oft, wann wird [C]diese Zukunft wahr
+fliegen wir vielleicht schon Jahr 2001
+zu fernen Sternen als Menschheit vereint
+
+oder gibts bis dahin 2 3 Apokalypsen
+durch Killerroboter mit Phasergeschützen
+Doch mittlerweile haben wir schon 2014
+und ich habe von der Zukunft noch nicht allzu viel gesehn
+
+[Em]Als ich letztens dann nochmal die [D]Serie Star Gate sah
+[C] da [D]wurde mir [Hm]klar
+
+{ci: Refrain:}
+[Em] Wir [G]sind Science [D]Fiction
+wir sind die [Hm]Zukunft wir sind eine ferne [C]Welt
+[Em]Wir [G]sind Science [D]Fiction
+doch dem Regis[Hm]seur es mangelt ihm an [C]Geld
+es mangelt ihm an [Em]Geld
+es mangelt ihm an [G]Geld
+es mangelt ihm an [D]Geld
+es mangelt ihm an [Em]Geld
+
+Ja toll wir haben jetzt das Internet
+ich hoffe eigentlich aufs Holodeck
+Wir verbrennen Öl und Kohle wir vor hundert Jahrn
+ich dachte wir würden längst per Warpantrieb fahren
+
+Wir schlagen uns wie immer schon die Schädel ein
+da langweilt es im Grunde ob per Drohne oder Stein
+Ja diese Zukunft unsre heutige Welt
+[C]hab ich ich mir spann[D]ender vorge[Hm]stellt
+
+{ci: (Refrain again) +}
+
+{ci: Alles außer Synthie und Geige pausiert}
+
+mir mangelts an [Em]Geduld
+der Regisseur ist ein I[G]diot
+ich werd so vieles nicht mehr [D]sehn
+in 50 Jahren bin ich [C]tot
+
+mir mangelts an [Em]Geduld
+ihm mangelts an [G]Geduld (Chor)
+mir mangelts an [D]Geduld
+ihm mangelts an [C]Geduld  (Chor)
+
+{ci: (Chor singt "ihm mangelts an Geduld" im Hintergrund)}
+für den Replicator,
+für die Singularität
+für nen Trip durchs Sternentor
+komme ich leider zu spät
+oder vielmehr zu früh
+zu früh sterben werd ich auch
+ich werd so vieles nicht mehr
+vor meinem letzten Atemhauch
+
+mir mangelts an [Em]Geduld
+ihm mangelts an [G]Geduld (Chor)
+mir mangelts an [D]Geduld
+ihm mangelts an [C]Geduld  (Chor)

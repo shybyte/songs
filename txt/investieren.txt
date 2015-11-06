@@ -1,0 +1,46 @@
+{title: Investieren}
+
+ {define: B base-fret 6 frets 0 2 2 1 0 0}
+
+{ci:Intro: 2 x (C Am F G)}
+Manche [C]Menschen inves[Am]tieren in [F]Aktien doch dann [G]kommt ein Börsen[C]crash
+inves[Am]tiern in teure [F]Autos doch die [G]brennen schnell mal [C]wech
+inves[Am]tiern in teure [F]Möbel für ihr [G]teures großes [C]Haus
+und da [Am]kommen sie dann [F]nur noch zum Geld verdienen [G]raus
+
+mein [Am] Vater hat ge[C]sagt: auch [G] Du musst investiern
+ich werd [Dm]diesen guten Rat nicht [C]länger igno[B]rieren
+ab [Am]heute inves[Dm]tier ich in die [F] Zeit - die zum Leben [C]bleibt
+
+{ci: C Am F G C Am F Gis }
+
+Inves[C]tieren kann [Am]man auch hier im [F]Kiez in [G]Luxus Apart[C]ments
+ja unser [Am]Kiez er ist so [F]schön, dass man ihn [G]selbst in Schwaben [C]kennt
+doch wenn [Am]dann die Mieten [F]steigen müssen [G]manche Menschen [C]gehn
+ich glaube es wird [Am]Zeit für ein paar [F]zündende [G]Ideen
+
+denn die [Am]Träume in [C]uns, die [G]kann uns keiner klaun
+doch [Dm]langsam wird es Zeit, [C]darauf aufzu[B]baun
+denn wir [Am]inves[Dm]tieren in die [F]Zeit- die zum Leben [C]bleibt
+
+{ci: C Am F G C Am F Gis }
+
+Inves[C]tieren kann [Am]man auch in die [F]Freiheit [G]
+ist auch ein [C]Grund, war[Am]um wir heut hier [F]stehn [G]
+ist auch ein [C]Grund, war[Am]um wir Lieder [F]singen [G]
+ist auch ein [C]Grund, warum wir [Am]nicht so einfach [F]gehn [G]
+
+denn die [Am]Träume in [C]uns, die [G]kann uns keiner klaun
+doch [Dm]langsam wird es Zeit, [C]darauf aufzu[B]baun
+denn wir [Am]inves[Dm]tieren in die [F]Zeit- die zum Leben [C]bleibt
+
+{ci:  Solo auf 3 x (C Am F G)  C Am F Gis}
+
+ja die [Am]Bilder im [C]Kopf, die [G]kann uns keiner klaun
+sie [Dm]gehen nie verlorn, werden [C]vielleicht mit uns ver[B]fauln
+doch bis [Am]dahin inves[Dm]tier ich in die [F]Zeit - die zum Leben [C]bleibt
+
+{ci: C Am F G C Am F Gis }
+
+#{no_grid}
+# iconv --from-code=UTF-8 --to-code=ISO-8859-2 Investieren.txt >Investieren2.txt;chordii Investieren2.txt -o Investieren.ps; ps2pdf Investieren.ps  Investieren.pdf

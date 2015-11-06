@@ -1,0 +1,37 @@
+Wer schrieb diesen Code
+(Melodie: Knocking on Heavens Door)
+
+(Intro 2 * [G D a a G D C C])
+
+Wir hatten wieder mal nen Bug
+tief in unserem System
+Und der versaute mir den Tag
+beim Versuch ihm auf den Grund zu gehen
+
+Nach langer, langer Suche fand
+ich dann die Wurzel  des Problems
+doch der Code der da so stand
+war unmöglich zu verstehen, der schmerzte beim ansehn
+
+(Refrain:)
+Wer wer wer schrieb diesen Code
+Wer wer wer war der Idiot
+Wer wer wer schreibt solchen Code
+Wer wer wer war der Idiot
+
+Es gab nicht mal einen Test
+und keine Dokumentation
+Fogbugz gab mir fast den Rest
+doch zum Glück gibts ja die Historiefunktion
+
+Da schaute ich dann mal,
+wer der Urheber war
+doch was ich fand  beschämte mich
+es war mein früheres Ich, der Idiot der war ich
+
+(2 * Refrain:)
+Wer wer wer schrieb diesen Code
+Wer wer wer war der Idiot
+Wer wer wer schreibt solchen Code
+Wer wer wer war der Idiot
+

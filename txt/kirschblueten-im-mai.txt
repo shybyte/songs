@@ -1,0 +1,35 @@
+{title:Kirschblüten im Mai}
+
+{ci:Intro: 2 x (Am C G G)}
+
+[Am] Seit vierund[C]dreißig langen [G]Jahren lebe ich auf nem Plan[Am]et
+der sich in [C]akzeptablen [G]Abstand um [Dm]eine Sonne [B]dreht
+man könnte einiges be[Dm]klagen, doch dafür bin ich nicht [B]hier
+ich stehe hier um mal zu [C]sagen:
+
+{ci:Instrumente still}
+
+{start_of_chorus}
+{start_of_chorus}
+Dass es hier schön ist liegt an [Dm]Dir
+es liegt liegt an [C]Euch - es liegt an [B]Kirschblüten im Mai
+es liegt am [Dm]Sommer in [C]Berlin denn Ihr
+denn [B]Ihr seid mit dabei.
+Es liegt an [Dm]Dir
+es liegt liegt an [Am]Euch - es liegt an [F]Kirschblüten im [G]Mai
+ja bald ist  [Dm]Sommer in [C]Berlin und Ihr
+und [B]Ihr seid mit dabei.
+{end_of_chorus}
+
+{ci:Keyboardsolo: 2 x (Dm Am F  G)}
+{ci: 2 x (Am C G G) }
+
+[Am]Seit mehr als [C]vierunddreißig [G]Jahren such ich nach einem [Am]Sinn
+doch immer [C]wenn ich ihm be[G]gegne sehe [Dm]ich lieber nicht [B]hin
+denn die Wahrheit ist so [Dm]einfach, dass ich sie nicht akzep[Dm]tier
+doch heute mach ich ne [C]Ausnahme:
+
+{ci:Refrain again}
+{ci:Keyboardsolo: 2 x (Dm Am F  G)}
+{ci: 2 x (Am C G G) }
+{ci: Am C G F}
