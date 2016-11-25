@@ -1,53 +1,80 @@
-d F B A
+{title: Feinde}
 
-Als du ein Baby warst nachts allein im Bett
-alle Lichter aus und deine Eltern weg
-krochen aus der Dunkelheit die Monster heraus
-hinter jeder Ecke lauerten sie dir auf
-du hast gelernt, im Wald, da gibt es wilde Tiere
-auf der StraÃŸe entfÃ¼hren Dich PÃ¤dophile
-wer nicht aufpasst der muss furchtbar leiden
-Fremde sollte man grundsÃ¤tzlich meiden
-Halt dich fern von der Steckdodse
-auch der Spiel mit dem Feuer geht schnell in die Hose
-Autos auf der StraÃŸe das sind Mordmaschinen
-die Deiner Vernichtung dienen
+{define: B base-fret 6 frets 0 2 2 1 0 0}
 
-du hast gelernt die Welt ist voller Feinde
-und die bedrohn deine gesamte Existenz
-doch man kann sich vorbereiten
-denn du hast einen Vorteil
-nÃ¤mlich den, dass du sie kennst
-dass du sie kennst
-dass du sie kennst
+{c: Strophe: 4Dm 4F 4B 4A }
+{c: Refrain }
+{c: 3 * Dm F B A}
+{c: 1 * 2Dm 2F 2B 2A}
+{c: 3 * 2Dm 2F 2B 2A}
 
-In der Schule spÃ¤ter kamen dann die Noten
+{c: Intro}
+{ci: 2 * Dm F B A}
+
+{c: Strophe 1}
+Als du ein [Dm]Baby warst nachts allein im Bett
+alle [F]Lichter aus, deine Eltern weg
+aus der [B]Dunkelheit krochen tausend Monster heraus
+hinter [A]jeder Ecke lauerten sie dir auf
+
+du hast [Dm]gelernt, im Wald, da gibt es wilde Tiere
+auf der [F]Straße entführen Dich Pädophile
+wer nicht [B]aufpasst der muss furchtbar leiden
+[A]Fremde sollte man grundsätzlich meiden
+
+[Dm]Halt dich fern von der Steckdose
+auch der [F]Spiel mit dem Feuer geht schnell in die Hose
+die [B]Autos auf der Straße das sind Killermaschinen
+[A]die Deiner Vernichtung dienen
+
+{c: Refrain }
+du hast [Dm]gelernt die [F]Welt ist voller [B]Feinde [A]
+[Dm] und die be[F]drohn deine ge[B]samte Exis[A]tenz
+[Dm] doch man [F]kann sich vorbe[B]reiten [A]
+denn [Dm]du hast einen [F]Vorteil
+nämlich [B]den ... [A]
+
+dass du sie [Dm]kennst [F][B][A]
+dass du sie [Dm]ke-ennst, [F]ke-ennst [B]ke-ennst [A]
+dass du sie kennst [F][B][A]
+
+{ci: 2 * Dm F B A}
+
+{c: Strophe 2}
+In der Schule später kamen dann die Noten
 un der Leistungsdruck und die lebenden Toten
 aus Angst vorm ein Versager sein
 reihtest du dich in ihre Reihen ein
 
-Als Teeny gab es dann die nÃ¤chste Lektion
-der allergrÃ¶ÃŸte Feind ist die Isolation
-die Furcht vorm nicht dazugehÃ¶ren
-kann Teenyseelen zerstÃ¶ren
+Als Teeny gab es dann die nächste Lektion
+der allergrößte Feind ist die Isolation
+die Furcht vorm nicht dazugehören
+kann Teenyseelen zerstören
 
-Du hast die falschen Klamotten
-hast di flasche Figur
-bist zu dÃ¼nn oder zu fett
-hast die falsche Figur
-HÃ¶rst du ihr lÃ¤stern schon
-MachtkÃ¤mpfe und Intrigen wie bei Game of Thrones
+Du hast die falschen Klamotten, hast die falsche Figur
+bist zu dünn oder zu fett, hast die falsche Figur
+Hörst du ihr lästern schon
+Machtkämpfe und Intrigen wie bei Game of Thrones
 
+{ci: Refrain }
+{ci: 2 * Dm F B A}
+
+{c: Strophe 3}
 Wenn du nicht funktionierst bist du bald arbeitslos
-dann wirst du aussortiert (dann bist du neben deiner arbeit) bist deine Selbstachtung los
-denn nur der ist ein rechter Mann, der fÃ¼r sich selber sorgen kann
+dann wirst du aussortiert, bist deine Selbstachtung los
+denn nur der ist ein rechter Mann,
+der sich und die Familie selbst sorgen kann
 
-Ja alle anderen beneiden dich um dein GlÃ¼ck
-doch du hast es dir verdient, jetzt gibt es kein zurÃ¼ck
-denn nÃ¤chste Woche kommt das neue iPhone raus
+Ja alle anderen beneiden dich um dein Glück
+du hast es dir verdient, jetzt gibt es kein zurück
+denn nächste Woche kommt schon das neue iPhone raus
 und allem zwischen dir und ihm machst du den Garaus
 
-wir mÃ¼ssen Mauern bauen, gehen die FlÃ¼chtlingshorden
-mÃ¼ssen im Zweifelsfall, ein paar von denen ermorden
-mÃ¼ssen uns Ã¼berwachen gegen die Terrorgefahr
+wir müssen Mauern bauen, gegen Flüchtlingshorden
+müssen im Zweifelsfall, ein paar von denen ermorden
+müssen überwachen gegen Terrorgefahr
 wir machen 1984 wahr
+
+{ci: Refrain }
+{ci: 2 * Dm F B A}
+

@@ -12,7 +12,11 @@ My Songs
 
 # TODO:
   * Geradeaus
- 
+
+# Tools
+
+http://www.chordii.org/
+http://www.chordpro.org/
 
 ## License
 
