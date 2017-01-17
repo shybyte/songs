@@ -1,0 +1,58 @@
+{title: Entscheiden}
+
+{define: B base-fret 6 frets 0 2 2 1 0 0}
+
+{c: Intro: Gm Gm Cm B}
+{c: Strophe: }
+{c: 2 * Gm Gm Gm Gm  Cm Cm B D}
+{c: Gm Gm Gm Gm Cm Cm B B D D Dis}
+
+{c: Refrain: }
+{c: 2 * Gm Gm B B F F Cm Dis}
+{c: Gm Gm Cm B}
+
+{c: Bridge: }
+{c: 3 * Gm Gm Cm B }
+{c: Gm Cm B D/Dis}
+
+{ci:  Intro }
+
+{c: Strophe 1}
+Seit einer Woche ist mein Handy im Arsch
+daher entwickelte ich einen Handybedarf
+den zu stillen kann ja so schwer nicht sein
+Millionen Modelle stürzen auf mich ein
+doch das eine ist zu groß das andere ist zu klein
+zu alt oder zu teuer
+keines scheint das Richtige für mich zu sein
+
+{c: Refrain}
+Doch [Gm]du musst dich entscheiden ob du [B]willst oder nicht
+da [F]jede Nichtentscheidung auch [Cm]ne Entscheidung [Dis]ist
+{ci: Gm Gm Cm B}
+
+{c: Strophe 2}
+Die Qual der Wahl ist das Übel unsrer Zeit
+das Überangebot steht überall bereit
+Milliarden Möglichkeiten die man irgendwie begehrt
+doch egal wie man entscheidet man macht irgendwas verkehrt
+was wirst du kaufen, wen lieben, wo wohnen, wohin streben
+was schaust du in der Glotze und was machst du mit deinem Leben
+
+{ci: Refrain}
+
+{ci: Bridge}
+[Gm] Isst du Butter oder [Cm]Marga[B]rine?
+[Gm ]Bist du das Öl oder der [Cm]Sand in der Ma[B]schine?
+[Gm] Hast du Zeit oder [Cm]hast du [B]Geld?
+Drehst du [Gm]dich weiter im Kreise oder [B]rettest du die [D]Welt [Dis]?
+
+{ci: Refrain}
+
+
+
+
+
+
+
+
