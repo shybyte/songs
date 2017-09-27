@@ -1,0 +1,14 @@
+Long time ago I wrote nodejs code in javascript
+but after some month it turned into a pile of shit
+another bug at runtime
+another function undefined
+
+but then I met what will save us,
+but then I met what gave me new trust
+
+Because in Rust
+we can trust
+because in rust we trust
+
+If your code turns at runtime into Dust
+you might consider using Rust
